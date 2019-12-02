@@ -1,10 +1,224 @@
-[{"id":1,"movie_title":"Enlighten Up!","movie_duration":95,"movie_actor":"'\"'","movie_director":"0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟","release_date":"1/18/2019","type":"᠎"},
-{"id":2,"movie_title":"Hello Herman","movie_duration":84,"movie_actor":"𠜎𠜱𠝹𠱓𠱸𠲖𠳏","movie_director":"-1E2","release_date":"3/16/2019","type":"00˙Ɩ$-"},
-{"id":3,"movie_title":"Scream 4","movie_duration":78,"movie_actor":"NIL","movie_director":"ヽ༼ຈل͜ຈ༽ﾉ ヽ༼ຈل͜ຈ༽ﾉ ","release_date":"10/7/2019","type":"!@#$%^&*()"},
-{"id":4,"movie_title":"Crumb","movie_duration":63,"movie_actor":"᠎","movie_director":"''","release_date":"6/8/2019","type":"⁰⁴⁵₀₁₂"},
-{"id":5,"movie_title":"Year of the Dragon","movie_duration":54,"movie_actor":"᠎","movie_director":"울란바토르","release_date":"6/13/2019","type":"₀₁₂"},
-{"id":6,"movie_title":"Once Were Warriors","movie_duration":80,"movie_actor":" test ","movie_director":"사회과학원 어학연구소","release_date":"2/18/2019","type":"nil"},
-{"id":7,"movie_title":"Those Who Love Me Can Take the Train (Ceux qui m'aiment prendront le train)","movie_duration":88,"movie_actor":"NIL","movie_director":"test⁠test‫","release_date":"9/29/2019","type":"ÅÍÎÏ˝ÓÔÒÚÆ☃"},
-{"id":8,"movie_title":"Thank You, Mr. Moto","movie_duration":88,"movie_actor":"-1/2","movie_director":"␣","release_date":"9/20/2019","type":"̗̺͖̹̯͓Ṯ̤͍̥͇͈h̲́e͏͓̼̗̙̼̣͔ ͇̜̱̠͓͍ͅN͕͠e̗̱z̘̝̜̺͙p̤̺̹͍̯͚e̠̻̠͜r̨̤͍̺̖͔̖̖d̠̟̭̬̝͟i̦͖̩͓͔̤a̠̗̬͉̙n͚͜ ̻̞̰͚ͅh̵͉i̳̞v̢͇ḙ͎͟-҉̭̩̼͔m̤̭̫i͕͇̝̦n̗͙ḍ̟ ̯̲͕͞ǫ̟̯̰̲͙̻̝f ̪̰̰̗̖̭̘͘c̦͍̲̞͍̩̙ḥ͚a̮͎̟̙͜ơ̩̹͎s̤.̝̝ ҉Z̡̖̜͖̰̣͉̜a͖̰͙̬͡l̲̫̳͍̩g̡̟̼̱͚̞̬ͅo̗͜.̟"},
-{"id":9,"movie_title":"Hit, The","movie_duration":22,"movie_actor":"1;DROP TABLE users","movie_director":"\"","release_date":"2/2/2019","type":"-1/2"},
-{"id":10,"movie_title":"Fastest Gun Alive, The","movie_duration":63,"movie_actor":"울란바토르","movie_director":"パーティーへ行かないか","release_date":"7/7/2019","type":"🐵 🙈 🙉 🙊"}]
+{
+  "movies": [
+    {
+      "id": 1,
+      "movie_title": "Alano",
+      "movie_des": "70567 Service Park",
+      "movie_actors": "Python (unidentified)",
+      "movie_director": "Lava gull",
+      "movie_duration": 246,
+      "movie_type": "Crown of thorns starfish",
+      "movie_thumb": "https://robohash.org/eosmaximeexercitationem.jpg?size=200x300&set=set1",
+      "movie_premier": "06/02/2019"
+    },
+    {
+      "id": 2,
+      "movie_title": "Harvey",
+      "movie_des": "8260 Graedel Way",
+      "movie_actors": "Eagle, pallas's fish",
+      "movie_director": "Woodrat (unidentified)",
+      "movie_duration": 257,
+      "movie_type": "African darter",
+      "movie_thumb": "https://robohash.org/exercitationemexplicaboaccusamus.jpg?size=200x300&set=set1",
+      "movie_premier": "05/12/2018"
+    },
+    {
+      "id": 3,
+      "movie_title": "Sosanna",
+      "movie_des": "6 Green Road",
+      "movie_actors": "Sparrow, house",
+      "movie_director": "Langur, hanuman",
+      "movie_duration": 188,
+      "movie_type": "Crane, stanley",
+      "movie_thumb": "https://robohash.org/consequaturquiavero.jpg?size=200x300&set=set1",
+      "movie_premier": "29/04/2019"
+    },
+    {
+      "id": 4,
+      "movie_title": "Brinn",
+      "movie_des": "4 Logan Center",
+      "movie_actors": "Snake, carpet",
+      "movie_director": "Little blue penguin",
+      "movie_duration": 297,
+      "movie_type": "Lemur, ring-tailed",
+      "movie_thumb": "https://robohash.org/iurenecessitatibuseos.jpg?size=200x300&set=set1",
+      "movie_premier": "03/04/2019"
+    },
+    {
+      "id": 5,
+      "movie_title": "Abbey",
+      "movie_des": "7 Marcy Lane",
+      "movie_actors": "Squirrel, arctic ground",
+      "movie_director": "Lizard, desert spiny",
+      "movie_duration": 271,
+      "movie_type": "Brown antechinus",
+      "movie_thumb": "https://robohash.org/mollitiasuscipitvoluptatem.jpg?size=200x300&set=set1",
+      "movie_premier": "18/05/2019"
+    },
+    {
+      "id": 6,
+      "movie_title": "Debra",
+      "movie_des": "1 Waubesa Pass",
+      "movie_actors": "Eagle, long-crested hawk",
+      "movie_director": "Painted stork",
+      "movie_duration": 188,
+      "movie_type": "Springbok",
+      "movie_thumb": "https://robohash.org/dolorumquaset.jpg?size=200x300&set=set1",
+      "movie_premier": "22/05/2019"
+    },
+    {
+      "id": 7,
+      "movie_title": "Giacobo",
+      "movie_des": "4 Burning Wood Court",
+      "movie_actors": "Lourie, grey",
+      "movie_director": "Pigeon, wood",
+      "movie_duration": 128,
+      "movie_type": "Blue peacock",
+      "movie_thumb": "https://robohash.org/repudiandaemolestiaevoluptate.jpg?size=200x300&set=set1",
+      "movie_premier": "12/02/2019"
+    },
+    {
+      "id": 8,
+      "movie_title": "Harley",
+      "movie_des": "8234 Hallows Terrace",
+      "movie_actors": "Denham's bustard",
+      "movie_director": "Gecko (unidentified)",
+      "movie_duration": 139,
+      "movie_type": "Squirrel, golden-mantled ground",
+      "movie_thumb": "https://robohash.org/nonidaperiam.jpg?size=200x300&set=set1",
+      "movie_premier": "20/02/2019"
+    },
+    {
+      "id": 9,
+      "movie_title": "Leora",
+      "movie_des": "9 Arizona Plaza",
+      "movie_actors": "Eastern diamondback rattlesnake",
+      "movie_director": "Vulture, black",
+      "movie_duration": 117,
+      "movie_type": "Elephant, african",
+      "movie_thumb": "https://robohash.org/etconsequunturnostrum.jpg?size=200x300&set=set1",
+      "movie_premier": "06/05/2019"
+    },
+    {
+      "id": 10,
+      "movie_title": "Rosemarie",
+      "movie_des": "1 Warner Junction",
+      "movie_actors": "Heron, green-backed",
+      "movie_director": "Admiral, indian red",
+      "movie_duration": 188,
+      "movie_type": "Koala",
+      "movie_thumb": "https://robohash.org/minussitvoluptatem.jpg?size=200x300&set=set1",
+      "movie_premier": "21/04/2019"
+    },
+    {
+      "id": 11,
+      "movie_title": "Jarrod",
+      "movie_des": "67 Mcbride Point",
+      "movie_actors": "Red-knobbed coot",
+      "movie_director": "Shrew, mandras tree",
+      "movie_duration": 231,
+      "movie_type": "Pale white-eye",
+      "movie_thumb": "https://robohash.org/tenetursequifacere.jpg?size=200x300&set=set1",
+      "movie_premier": "15/11/2019"
+    },
+    {
+      "id": 12,
+      "movie_title": "Nichole",
+      "movie_des": "33507 Lakewood Hill",
+      "movie_actors": "Bushpig",
+      "movie_director": "Boa, emerald green tree",
+      "movie_duration": 197,
+      "movie_type": "Duck, blue",
+      "movie_thumb": "https://robohash.org/molestiaequosid.jpg?size=200x300&set=set1",
+      "movie_premier": "23/01/2019"
+    },
+    {
+      "id": 13,
+      "movie_title": "Magdalen",
+      "movie_des": "6 Messerschmidt Hill",
+      "movie_actors": "Flightless cormorant",
+      "movie_director": "Potoroo",
+      "movie_duration": 266,
+      "movie_type": "Bushbaby, large-eared",
+      "movie_thumb": "https://robohash.org/doloremquenobisconsequuntur.jpg?size=200x300&set=set1",
+      "movie_premier": "29/01/2019"
+    },
+    {
+      "id": 14,
+      "movie_title": "Wynn",
+      "movie_des": "00453 Oak Center",
+      "movie_actors": "Blue fox",
+      "movie_director": "Snowy sheathbill",
+      "movie_duration": 226,
+      "movie_type": "Boa, malagasy ground",
+      "movie_thumb": "https://robohash.org/consequaturcumnisi.jpg?size=200x300&set=set1",
+      "movie_premier": "19/12/2018"
+    },
+    {
+      "id": 15,
+      "movie_title": "Arlie",
+      "movie_des": "34 Kennedy Road",
+      "movie_actors": "White-headed vulture",
+      "movie_director": "Frilled lizard",
+      "movie_duration": 192,
+      "movie_type": "Stick insect",
+      "movie_thumb": "https://robohash.org/veritatisvoluptasvoluptatem.jpg?size=200x300&set=set1",
+      "movie_premier": "27/08/2019"
+    },
+    {
+      "id": 16,
+      "movie_title": "Wilona",
+      "movie_des": "7 Pleasure Park",
+      "movie_actors": "Hartebeest, coke's",
+      "movie_director": "Black curlew",
+      "movie_duration": 140,
+      "movie_type": "Magpie, black-backed",
+      "movie_thumb": "https://robohash.org/recusandaemagniveniam.jpg?size=200x300&set=set1",
+      "movie_premier": "28/02/2019"
+    },
+    {
+      "id": 17,
+      "movie_title": "Merilee",
+      "movie_des": "44099 Loftsgordon Avenue",
+      "movie_actors": "Golden eagle",
+      "movie_director": "Meerkat, red",
+      "movie_duration": 255,
+      "movie_type": "Tinamou, elegant crested",
+      "movie_thumb": "https://robohash.org/doloresaliquideveniet.jpg?size=200x300&set=set1",
+      "movie_premier": "22/04/2019"
+    },
+    {
+      "id": 18,
+      "movie_title": "Rivy",
+      "movie_des": "790 Manufacturers Terrace",
+      "movie_actors": "Wolf, common",
+      "movie_director": "Mountain lion",
+      "movie_duration": 253,
+      "movie_type": "Egyptian viper",
+      "movie_thumb": "https://robohash.org/doloresminimaest.jpg?size=200x300&set=set1",
+      "movie_premier": "03/10/2019"
+    },
+    {
+      "id": 19,
+      "movie_title": "Rhona",
+      "movie_des": "01 Eagan Plaza",
+      "movie_actors": "Elegant crested tinamou",
+      "movie_director": "Asian water buffalo",
+      "movie_duration": 250,
+      "movie_type": "Spotted-tailed quoll",
+      "movie_thumb": "https://robohash.org/itaquequiest.jpg?size=200x300&set=set1",
+      "movie_premier": "15/11/2019"
+    },
+    {
+      "id": 20,
+      "movie_title": "Hortensia",
+      "movie_des": "8793 Hayes Circle",
+      "movie_actors": "Banded mongoose",
+      "movie_director": "Spider, wolf",
+      "movie_duration": 105,
+      "movie_type": "Nile crocodile",
+      "movie_thumb": "https://robohash.org/etnihilmagni.jpg?size=200x300&set=set1",
+      "movie_premier": "07/08/2019"
+    }
+  ]
+}
