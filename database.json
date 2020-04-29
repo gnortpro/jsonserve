@@ -1,94 +1,129 @@
 {
-  "movies": [
-    {
-      "id": 1,
-      "movie_title": "Enlighten Up!",
-      "movie_duration": 95,
-      "movie_actor": "'\"'",
-      "movie_director": "0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟",
-      "release_date": "1/18/2019",
-      "type": "᠎"
-    },
-    {
-      "id": 2,
-      "movie_title": "Hello Herman",
-      "movie_duration": 84,
-      "movie_actor": "𠜎𠜱𠝹𠱓𠱸𠲖𠳏",
-      "movie_director": "-1E2",
-      "release_date": "3/16/2019",
-      "type": "00˙Ɩ$-"
-    },
-    {
-      "id": 3,
-      "movie_title": "Scream 4",
-      "movie_duration": 78,
-      "movie_actor": "NIL",
-      "movie_director": "ヽ༼ຈل͜ຈ༽ﾉ ヽ༼ຈل͜ຈ༽ﾉ ",
-      "release_date": "10/7/2019",
-      "type": "!@#$%^&*()"
-    },
-    {
-      "id": 4,
-      "movie_title": "Crumb",
-      "movie_duration": 63,
-      "movie_actor": "᠎",
-      "movie_director": "''",
-      "release_date": "6/8/2019",
-      "type": "⁰⁴⁵₀₁₂"
-    },
-    {
-      "id": 5,
-      "movie_title": "Year of the Dragon",
-      "movie_duration": 54,
-      "movie_actor": "᠎",
-      "movie_director": "울란바토르",
-      "release_date": "6/13/2019",
-      "type": "₀₁₂"
-    },
-    {
-      "id": 6,
-      "movie_title": "Once Were Warriors",
-      "movie_duration": 80,
-      "movie_actor": " test ",
-      "movie_director": "사회과학원 어학연구소",
-      "release_date": "2/18/2019",
-      "type": "nil"
-    },
-    {
-      "id": 7,
-      "movie_title": "Those Who Love Me Can Take the Train (Ceux qui m'aiment prendront le train)",
-      "movie_duration": 88,
-      "movie_actor": "NIL",
-      "movie_director": "test⁠test‫",
-      "release_date": "9/29/2019",
-      "type": "ÅÍÎÏ˝ÓÔÒÚÆ☃"
-    },
-    {
-      "id": 8,
-      "movie_title": "Thank You, Mr. Moto",
-      "movie_duration": 88,
-      "movie_actor": "-1/2",
-      "movie_director": "␣",
-      "release_date": "9/20/2019",
-      "type": "̗̺͖̹̯͓Ṯ̤͍̥͇͈h̲́e͏͓̼̗̙̼̣͔ ͇̜̱̠͓͍ͅN͕͠e̗̱z̘̝̜̺͙p̤̺̹͍̯͚e̠̻̠͜r̨̤͍̺̖͔̖̖d̠̟̭̬̝͟i̦͖̩͓͔̤a̠̗̬͉̙n͚͜ ̻̞̰͚ͅh̵͉i̳̞v̢͇ḙ͎͟-҉̭̩̼͔m̤̭̫i͕͇̝̦n̗͙ḍ̟ ̯̲͕͞ǫ̟̯̰̲͙̻̝f ̪̰̰̗̖̭̘͘c̦͍̲̞͍̩̙ḥ͚a̮͎̟̙͜ơ̩̹͎s̤.̝̝ ҉Z̡̖̜͖̰̣͉̜a͖̰͙̬͡l̲̫̳͍̩g̡̟̼̱͚̞̬ͅo̗͜.̟"
-    },
-    {
-      "id": 9,
-      "movie_title": "Hit, The",
-      "movie_duration": 22,
-      "movie_actor": "1;DROP TABLE users",
-      "movie_director": "\"",
-      "release_date": "2/2/2019",
-      "type": "-1/2"
-    },
-    {
-      "id": 10,
-      "movie_title": "Fastest Gun Alive, The",
-      "movie_duration": 63,
-      "movie_actor": "울란바토르",
-      "movie_director": "パーティーへ行かないか",
-      "release_date": "7/7/2019",
-      "type": "🐵 🙈 🙉 🙊"
-    }
-  ]
+  "data": {
+    "break_down": [
+      {
+        "label": "Level",
+        "type": "CHECKBOX",
+        "children": [
+          {
+            "column_name": "Request Name",
+            "columnDef": "request_name"
+          },
+          {
+            "column_name": "Request ID",
+            "columnDef": "request_id"
+          },
+          {
+            "column_name": "Campaign Name",
+            "columnDef": "campaign_name"
+          },
+          {
+            "column_name": "Campaign ID",
+            "columnDef": "campaign_id"
+          }
+        ]
+      },
+      {
+        "label": "Time",
+        "type": "CHECKBOX",
+        "children": [
+          {
+            "column_name": "Day",
+            "columnDef": "day"
+          }
+        ]
+      },
+      {
+        "label": "Delivery",
+        "type": "RADIO",
+        "children": [
+          {
+            "column_name": "Age",
+            "columnDef": "age"
+          },
+          {
+            "column_name": "Gender",
+            "columnDef": "gender"
+          },
+          {
+            "column_name": "Province",
+            "columnDef": "province"
+          },
+          {
+            "column_name": "Device",
+            "columnDef": "device"
+          },
+          {
+            "column_name": "Age & Gender",
+            "columnDef": "age_gender"
+          }
+        ]
+      }
+    ],
+    "metric": [
+      {
+        "label": "Level",
+        "children": [
+          {
+            "column_name": "Request Name",
+            "columnDef": "request_name"
+          },
+          {
+            "column_name": "Request ID",
+            "columnDef": "request_id"
+          },
+          {
+            "column_name": "Campaign Name",
+            "columnDef": "campaign_name"
+          },
+          {
+            "column_name": "Campaign ID",
+            "columnDef": "campaign_id"
+          },
+          {
+            "column_name": "Day",
+            "columnDef": "day"
+          },
+          {
+            "column_name": "Age",
+            "columnDef": "age"
+          }
+        ]
+      },
+      {
+        "label": "Time",
+        "children": [
+          {
+            "column_name": "Request Name",
+            "columnDef": "request_name"
+          },
+          {
+            "column_name": "Request ID",
+            "columnDef": "request_id"
+          }
+        ]
+      },
+      {
+        "label": "Delivery",
+        "children": [
+          {
+            "column_name": "Gender",
+            "columnDef": "gender"
+          },
+          {
+            "column_name": "Province",
+            "columnDef": "province"
+          },
+          {
+            "column_name": "Device",
+            "columnDef": "device"
+          },
+          {
+            "column_name": "Age & Gender",
+            "columnDef": "age_gender"
+          }
+        ]
+      }
+    ]
+  }
 }
